@@ -1,0 +1,14 @@
+C:\Users\info.bryan\Desktop\git2\musicasweb\Musicas.Web\RepositoriosComum.Entity\bin\Debug\RepositoriosComum.Entity.dll.config
+C:\Users\info.bryan\Desktop\git2\musicasweb\Musicas.Web\RepositoriosComum.Entity\bin\Debug\RepositoriosComum.Entity.dll
+C:\Users\info.bryan\Desktop\git2\musicasweb\Musicas.Web\RepositoriosComum.Entity\bin\Debug\RepositoriosComum.Entity.pdb
+C:\Users\info.bryan\Desktop\git2\musicasweb\Musicas.Web\RepositoriosComum.Entity\bin\Debug\EntityFramework.dll
+C:\Users\info.bryan\Desktop\git2\musicasweb\Musicas.Web\RepositoriosComum.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\info.bryan\Desktop\git2\musicasweb\Musicas.Web\RepositoriosComum.Entity\bin\Debug\RepositoriosComum.dll
+C:\Users\info.bryan\Desktop\git2\musicasweb\Musicas.Web\RepositoriosComum.Entity\bin\Debug\RepositoriosComum.pdb
+C:\Users\info.bryan\Desktop\git2\musicasweb\Musicas.Web\RepositoriosComum.Entity\bin\Debug\EntityFramework.xml
+C:\Users\info.bryan\Desktop\git2\musicasweb\Musicas.Web\RepositoriosComum.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\info.bryan\Desktop\git2\musicasweb\Musicas.Web\RepositoriosComum.Entity\obj\Debug\RepositoriosComum.Entity.csprojAssemblyReference.cache
+C:\Users\info.bryan\Desktop\git2\musicasweb\Musicas.Web\RepositoriosComum.Entity\obj\Debug\RepositoriosComum.Entity.csproj.CoreCompileInputs.cache
+C:\Users\info.bryan\Desktop\git2\musicasweb\Musicas.Web\RepositoriosComum.Entity\obj\Debug\RepositoriosComum.Entity.csproj.CopyComplete
+C:\Users\info.bryan\Desktop\git2\musicasweb\Musicas.Web\RepositoriosComum.Entity\obj\Debug\RepositoriosComum.Entity.dll
+C:\Users\info.bryan\Desktop\git2\musicasweb\Musicas.Web\RepositoriosComum.Entity\obj\Debug\RepositoriosComum.Entity.pdb

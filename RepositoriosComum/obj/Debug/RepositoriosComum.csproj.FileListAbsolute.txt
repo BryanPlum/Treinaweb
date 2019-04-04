@@ -1,0 +1,6 @@
+C:\Users\info.bryan\Desktop\git2\musicasweb\Musicas.Web\RepositoriosComum\bin\Debug\RepositoriosComum.dll
+C:\Users\info.bryan\Desktop\git2\musicasweb\Musicas.Web\RepositoriosComum\bin\Debug\RepositoriosComum.pdb
+C:\Users\info.bryan\Desktop\git2\musicasweb\Musicas.Web\RepositoriosComum\obj\Debug\RepositoriosComum.csprojAssemblyReference.cache
+C:\Users\info.bryan\Desktop\git2\musicasweb\Musicas.Web\RepositoriosComum\obj\Debug\RepositoriosComum.csproj.CoreCompileInputs.cache
+C:\Users\info.bryan\Desktop\git2\musicasweb\Musicas.Web\RepositoriosComum\obj\Debug\RepositoriosComum.dll
+C:\Users\info.bryan\Desktop\git2\musicasweb\Musicas.Web\RepositoriosComum\obj\Debug\RepositoriosComum.pdb
